@@ -11,16 +11,18 @@ const About = () => {
             </p>
           </div>
           <div></div>
+        </div>
+        <div className='max-w-[1000px] w-full grid sm:grid-cols-2 gap-8 px-4'>
+          <div className='sm:text-right text-4xl font-bold'>
+            <p>Hi. Bodhisattwa Basu, nice to meet you. Please take a look around.</p>
           </div>
-          <div className='max-w-[1000px] w-full grid sm:grid-cols-2 gap-8 px-4'>
-            <div className='sm:text-right text-4xl font-bold'>
-              <p>Hi. Bodhisattwa Basu, nice to meet you. Please take a look around.</p>
-            </div>
-            <div>
-              <p>I am passionate about building web apps which makes people's lives easier.I have completed my graduation in Computer Application From Netaji Subhash Engineering College.
-                From very young age I was fascinated by computers and technology.I keep myself updated with the latest tech in the market and build applications implementing those technologies.</p>  
-            </div>
+          <div>
+            <p>
+              Hi! I’m Bodhi, a BCA graduate and currently pursuing Mca, and a frontend developer. I’m passionate about building web applications that are both functional and beautiful. I also have experience working with Next js, Node js, and similar technologies, and I’m always eager to learn more. When I’m not coding, you can find me on the streets photographing people.
+              Feel free to contact me!
+            </p>
           </div>
+        </div>
       </div>
     </div>
   );
