@@ -3,7 +3,7 @@ import sketch from '../assets/projects/sketch.png'
 import board from '../assets/projects/Dashboard.png'
 import clone from '../assets/projects/net-clone.png'
 import gym from '../assets/projects/Workout-app.png'
-import financeFlow from '../assets/projects/Finance-Flow.png'
+import financeFlow from '../assets/projects/Finance-flow.png'
 
 export const data=[
     {
