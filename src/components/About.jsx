@@ -18,10 +18,10 @@ const About = () => {
           </div>
           <div>
             <p>
-              Hi! I’m Bodhi, a BCA graduate and currently pursuing Mca, and a frontend developer. 
-              I’m passionate about building web applications that are both functional and beautiful. 
-              I also have experience working with Next js, Node js, and similar technologies, and I’m always eager to learn more. 
-              When I’m not coding, you can find me on the streets photographing people.
+              Hi! I'm Bodhi, a BCA graduate and currently pursuing Mca, and a frontend developer. 
+              I'm passionate about building web applications that are both functional and beautiful. 
+              I also have experience working with Next js, Node js, and similar technologies, and I'm always eager to learn more. 
+              When I'm not coding, you can find me on the streets photographing people.
               Feel free to contact me!
             </p>
           </div>
