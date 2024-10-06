@@ -8,7 +8,7 @@ import financeFlow from '../assets/projects/Finance-flow.png'
 export const data=[
     {
         id:1,
-        name:"Shop-Mop(Desktop Application)",
+        name:"Finance Flow (Repsonsive)",
         image:financeFlow,
         github:"https://github.com/Bodhi132/Finance_Flow.git",
         live:"https://finance-flow-nu.vercel.app/"
